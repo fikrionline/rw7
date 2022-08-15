@@ -1,0 +1,1 @@
+find /etc/nginx/cache/ -type f -delete
